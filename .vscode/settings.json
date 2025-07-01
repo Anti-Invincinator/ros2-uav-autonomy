@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": [
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ],
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "files.exclude": {
+    "**/build": true,
+    "**/install": true,
+    "**/log": true
+  }
+}
